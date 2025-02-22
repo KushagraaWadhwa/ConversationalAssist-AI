@@ -1,0 +1,12 @@
+openai-whisper 
+pyannote-audio 
+transformers 
+faiss-cpu 
+chromadb
+requests
+# soundddevice
+llama-index
+streamlit
+llama-index-embeddings-gemini
+llama-index-llms-gemini
+python-dotenv
